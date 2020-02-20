@@ -57,7 +57,7 @@ namespace Test07
             do
             {
                 Console.WriteLine("¿Que quieres del 1 al 4? ");
-                x = int.Parse(Console.ReadLine());                                                              
+                x = int.Parse(Console.ReadLine()); //A C# no les gusttan las variables dentro de los mismos corchetes y un switch o cualquier cosa asi
                 switch (x)
                 {
                     case 1:
