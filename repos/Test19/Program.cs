@@ -27,7 +27,7 @@ namespace Test19
             return x / y;
         }
 
-        static void Main(string[] args)
+        static void Main(string args)
         {
             int x = Quest("¿El primer número? ");
             int y = Quest("¿El segundo número? ");

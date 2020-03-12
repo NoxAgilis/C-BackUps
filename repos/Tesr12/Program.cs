@@ -13,7 +13,7 @@ namespace Tesr12
             {
                 for (int j = i + 1; j < list.Length; j++)
                 {
-                    Console.Write(*)
+                    Console.Write("*");
                 }
             }
         }
